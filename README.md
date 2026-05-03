@@ -1,4 +1,4 @@
-# Professionalizer-
+# Professionalizer#-
 AI-powered workflow designed to transform messy mobile shorthand into polished, client-ready professional emails. This project demonstrates the application of structured prompting frameworks (Role + Context + Task + Format) and few-shot learning to ensure consistent, high-quality professional communication.
  communications.
 --------------------------------------------------------------------------------
